@@ -26,7 +26,7 @@ const AddTodo = () => {
           type="submit"
           className="bg-indigo-500 text-white px-4 py-2 rounded-md hover:bg-indigo-400"
         >
-          Submit
+          Add
         </button>
       </form> 
     </div>
